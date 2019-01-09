@@ -23,7 +23,7 @@
 # BIG DATA AND MACHINE LEARNING
 
 <a name="Introduction"></a>
-# Hadoop Introduction (2h)
+# Hadoop Introduction
 [Back to Menu](#menu)
 ### Overgrowing data problem and management:
 - High chances of system failure.
@@ -132,7 +132,7 @@ A fully integrated data processing platform.
         The table can have thousands of columns.
 
 <a name="bigdata"></a>
-# Analyze Big Data with Hadoop (1h)
+# Analyze Big Data with Hadoop
 [Back to Menu](#menu)
 
 ### Task 1: Create an Amazon S3 bucket
@@ -159,7 +159,7 @@ Finally, it will give us a operating system counting table
 ### Task4&5: view result and terminate amazon EMR Cluster 
 
 <a name="s3"></a>
-# Introduction to Amazon Simple Storage Service (S3) (30mins) 
+# Introduction to Amazon Simple Storage Service (S3)
 [Back to Menu](#menu)
 ### Task 1-3: 
 1. Create bucket.
@@ -189,7 +189,7 @@ Finally, it will give us a operating system counting table
     Add action “s3:GetObjectVersion” in “Action” will allow access old version of a file.
 
 <a name="redshift"></a> 
-# Introduction to Amazon Redshift (1h 30mins)
+# Introduction to Amazon Redshift 
 [Back to Menu](#menu)
 * Amazon Redshift is a data warehouse to analyze data using standard SQL and existing Business Intelligence tools.
 ### Task 1: Launch an Amazon Redshift Cluster
@@ -259,7 +259,7 @@ Finally, it will give us a operating system counting table
 ![](https://s3.amazonaws.com/data357/ConfusionMatrix.PNG)
 
 <a name="buildml"></a> 
-# Build a Machine Learning Model (1h 15mins)
+# Build a Machine Learning Model
 [Back to Menu](#menu)
 
 ### Task 1: Prepare your data
@@ -296,7 +296,7 @@ age | job | marital | education | default | housing | loan | contact | month | d
 * In my model, the score larger than 0.35 will be taken as 1 and the score smaller or equal than 0.35 will be taken as 0.
 
 <a name="viewsegmaker"></a> 
-# AWS Overviwe of SageMaker (1h 30mins)
+# AWS Overviwe of SageMaker
 [Back to Menu](#menu)
 * The most important things I believe is that you can use your own scripts to train your model.
 ### What is SageMaker?
@@ -347,7 +347,7 @@ age | job | marital | education | default | housing | loan | contact | month | d
 		![](https://s3.amazonaws.com/hadoop357/batchTransform.PNG)
 
 <a name="app"></a> 
-# Build a Serverless Real-Time Data Processing APP (6h)
+# Build a Serverless Real-Time Data Processing APP
 [Back to Menu](#menu)
 ### Overview
 * In this project, I’ll build a serverless app to process real-time data streams and build infrastructure for a fictional ride-sharing company. In this case, I will enable operations personnel at a fictional Wild Rydes headquarters to monitor the health and status of their unicorn fleet. Each unicorn is equipped with a sensor that reports its location and vital signs.
@@ -525,7 +525,7 @@ Finally Connect to destination
   * What is container?
     * A container is a standard unit of software that packages up code and all its dependencies so the application runs quickly and reliably from one computing environment to another.
 
-### Docker is focused on the migration experience (20 mins)
+### Docker is focused on the migration experience 
 * Docker is all about speed
 ![](https://s3.amazonaws.com/hadoop357/docker.PNG)
 * Containers Reduce Complexity. Package all of the '?'.
@@ -544,7 +544,7 @@ Finally Connect to destination
 ****************************
 ### ! This is the old version of container beginner tutorial.
 <a name="guide"></a>
-# DevOps Docker Beginners Guide (1h)
+# DevOps Docker Beginners Guide
 [Back to Menu](#menu)
 
 ### Concepts
