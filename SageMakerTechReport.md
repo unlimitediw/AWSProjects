@@ -27,7 +27,7 @@ Fortunately, Amazon provides us a solution SageMaker combining all of these tech
 ![](https://github.com/unlimitediw/DistributedSystemLearn/blob/master/Image/6notebookedit.PNG)
 > Train the model built in the Jupyter Notebook Instance.
 * After training, we will get the model as follow. I am a little bit disappoint in this part since there is no to much difference with the training process on my own laptop. However, Amazon Segamaker will provide the log file of training to you which is helpful (in this model, it provides the xgboost prunning details for the decision tree model).
-![](https://github.com/unlimitediw/DistributedSystemLearn/blob/master/Image/6sagemaker_train.PNG)
+![](https://github.com/unlimitediw/DistributedSystemLearn/blob/master/Image/6new.PNG)
 * The trained model is also saved in the instance  
 ![](https://github.com/unlimitediw/DistributedSystemLearn/blob/master/Image/6mymodel.PNG)
 
