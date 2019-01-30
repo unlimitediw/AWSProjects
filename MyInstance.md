@@ -20,3 +20,5 @@
 
 > Move file
 * `scp -i pemPath filePath ec2-user@awshost:/~` be careful the ec2 instance linux AMI only accept file uploaded to `~`
+
+> 好啦 剩下的就很简单了，去security group，打开3000的端口号，然后就行了
