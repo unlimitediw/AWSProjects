@@ -16,6 +16,7 @@
   3. 在aws console获取instance id之类的信息
 
 * set the permissions of the private key so you can read it: `chmod 400 /path/my-key-pair.pem`
+* It is used to add host in .ssh/known_hosts. It may duplicated when reset Ip address and you need to delete it in the .ssh/known_hosts and auth agian.
 * use `ssh -i /path/my-key-pair.pem ec2-user@ec2-198-51-100-1.compute-1.amazonaws.com` connect to your instance.
 
 > Move file
